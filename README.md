@@ -20,9 +20,7 @@
 Hi! I'm an ordinary full-stack web developer 🐼 — nothing fancy, I just like building things that work.
 
 - 💻 My main language is **TypeScript**, and my daily stack is **Vue + NestJS**.
-- 🌱 Right now I'm learning **React** and slowly exploring **Go** (slowly but surely 🐢).
-- ⛏️ Off-duty, I like tinkering with **Minecraft** server internals — turns out it's *very* TypeScript-shaped.
-- ✨ I believe small, useful, dependency-free tools deserve love too.
+- 🌱 Right now I'm learning **React** and slowly exploring **Go**.
 
 ---
 

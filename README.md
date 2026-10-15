@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-ff69b4?style=for-the-badge" alt="Pronouns: She/Her" />
   <img src="https://img.shields.io/badge/Location-Wuhan%2C%20Hubei%2C%20China-blueviolet?style=for-the-badge" alt="Location: Wuhan, Hubei, China" />
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Web%20Developer-2ea44f?style=for-the-badge" alt="Full Stack Web Developer" />
-  <img src="https://img.shields.io/badge/Hobby-Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Hobby: Minecraft" />
 </p>
 
 ---
@@ -84,7 +83,7 @@ Hi! I'm an ordinary full-stack web developer 🐼 — nothing fancy, I just like
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://emooo.net"><img src="https://img.shields.io/badge/Website-emooo.net-4FC08D?style=for-the-badge" alt="Website: emooo.net" /></a>
+  <a href="https://www.emooo.net"><img src="https://img.shields.io/badge/Website-emooo.net-4FC08D?style=for-the-badge" alt="Website: emooo.net" /></a>
   <a href="mailto:hi@emooo.net"><img src="https://img.shields.io/badge/Email-hi%40emooo.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: hi@emooo.net" /></a>
   <a href="https://github.com/EmoooNET"><img src="https://img.shields.io/badge/GitHub-EmoooNET-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: EmoooNET" /></a>
 </p>

@@ -63,7 +63,7 @@ Hi! I'm an ordinary full-stack web developer 🐼 — nothing fancy, I just like
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### ⛏️ [PingMC](https://github.com/EmoooNET/ping-mc)
 
@@ -77,6 +77,22 @@ Hi! I'm an ordinary full-stack web developer 🐼 — nothing fancy, I just like
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node 22+](https://img.shields.io/badge/Node.js%2022%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
+### 🔎 [QueryMC](https://github.com/EmoooNET/query-mc)
+
+> A **zero-dependency** TypeScript library that queries **Minecraft Java Edition** servers over the UDP **Query (GameSpy4)** protocol — supports both **Basic Stat** and **Full Stat**.
+
+- ✅ Node.js **22+** — ships as **ESM** with `.d.ts`, declaration maps and source maps
+- 📊 Reports MOTD, version, online/max players, player list, map, server software and plugins — plus Stat round-trip **latency**
+- 🔁 One fresh UDP socket per call, no cache, no polling, no automatic retry — the caller decides when to retry
+- 📦 Currently maintained — not yet published to npm (build a package locally with `pnpm pack`)
+
+[![QueryMC Repo](https://img.shields.io/badge/QueryMC-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmoooNET/query-mc)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node 22+](https://img.shields.io/badge/Node.js%2022%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
+> PingMC talks the **TCP** Server List Ping the game client uses; QueryMC talks the **UDP** Query protocol, which servers must enable in `server.properties` (`enable-query=true`).
 
 ---
 

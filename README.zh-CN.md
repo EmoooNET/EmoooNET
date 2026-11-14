@@ -64,8 +64,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EmoooNET&show_icons=true" alt="EmoooNET 的 GitHub 统计" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmoooNET&layout=compact&langs_count=8" alt="最常用的语言" />
+  <img height="180" src="https://github-readme-stats.zcy.dev/api?username=EmoooNET&show_icons=true" alt="EmoooNET 的 GitHub 统计" />
+  <img height="180" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=EmoooNET&layout=compact&langs_count=8" alt="最常用的语言" />
 </div>
 
 ---

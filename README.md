@@ -64,8 +64,8 @@ Hi! I'm an ordinary full-stack web developer 🐼 — nothing fancy, I just like
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EmoooNET&show_icons=true" alt="EmoooNET's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmoooNET&layout=compact&langs_count=8" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.zcy.dev/api?username=EmoooNET&show_icons=true" alt="EmoooNET's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=EmoooNET&layout=compact&langs_count=8" alt="Most Used Languages" />
 </div>
 
 ---
